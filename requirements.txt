@@ -10,7 +10,7 @@ heroku3
 httpx[http2]
 lyricsgenius
 motor
-pillow==9.5.0
+pillow==12.3.0
 psutil
 pytube
 pykeyboard
